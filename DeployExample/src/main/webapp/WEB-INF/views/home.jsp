@@ -27,6 +27,7 @@
 <P>  Jenkins success!! RE</P>
 
 <P>  2022.12.12 TEST!!!</P>
+<P>  2022.12.12 TEST CLI!!!</P>
 <div>
 	<input type="text" />
 </div>
