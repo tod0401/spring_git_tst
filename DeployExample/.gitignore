@@ -1,4 +1,6 @@
 #모든 파일
+*.class
+pom.properties
 secrets.yaml
 Jaguars.yaml
 
