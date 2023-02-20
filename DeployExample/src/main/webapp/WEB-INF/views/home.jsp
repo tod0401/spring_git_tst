@@ -30,7 +30,8 @@
 <P>  2022.12.12 TEST CLI!!!</P>
 <P>  20230219!!!</P>
 <P>  20230219!!!20230219</P>
-<P>  PLEASE!!!! 0219</P>	
+<P>  PLEASE!!!! 0219</P>
+<P>  today 0220</P>		
 <div>
 	<input type="text" id="txtId" name="txtId"/>
 </div>
