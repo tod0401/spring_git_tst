@@ -36,4 +36,9 @@ public class HomeController {
 		return "home";
 	}
 	
+	@RequestMapping(value = "/testAct", method = RequestMethod.GET)
+	public void testAct() {
+		System.out.println("======================= JI A LOVE =======================");
+	}
+	
 }
