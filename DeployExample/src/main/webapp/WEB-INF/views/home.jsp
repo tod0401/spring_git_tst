@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>
-	LSP SCM  
+	SINGLEX Roadmap Town  
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
