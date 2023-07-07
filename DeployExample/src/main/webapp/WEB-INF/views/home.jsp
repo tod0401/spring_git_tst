@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>
-	SINGLEX Roadmap Town  
+	SINGLEX Roadmap Town CWJ 
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
