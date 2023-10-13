@@ -10,6 +10,9 @@
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
+<P>  Name is ${Title}. </P>
+
+
 
 <div>
 	<input type="text" id="txtId" name="txtId"/>
